@@ -1,7 +1,1 @@
 新增了bbb.txt文件
-<<<<<<< HEAD
-修改了bbb.txt文件
-add public void aaa();
-add public int aaa();
-=======
->>>>>>> parent of c25136d... 修改了bbb.txt文件
